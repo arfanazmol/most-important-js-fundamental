@@ -57,3 +57,6 @@ console.log(students.name); // direct by property
   //access via property name string
 console.log(students['city']); //access via property name in a variable
 console.log(students['age']);
+
+
+
