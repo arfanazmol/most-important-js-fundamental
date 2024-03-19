@@ -19,5 +19,5 @@ const prof3 = person[pName];
 const seson = person[25];
 // console.log(seson)
 const son = person['son-name'];
-
+//azmol fuad//
 //arfan//--------
